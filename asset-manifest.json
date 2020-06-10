@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-filter-react/static/css/main.43fa3661.chunk.css",
+    "main.js": "/monster-filter-react/static/js/main.c6069a83.chunk.js",
+    "main.js.map": "/monster-filter-react/static/js/main.c6069a83.chunk.js.map",
+    "runtime-main.js": "/monster-filter-react/static/js/runtime-main.d1218494.js",
+    "runtime-main.js.map": "/monster-filter-react/static/js/runtime-main.d1218494.js.map",
+    "static/js/2.a3c82928.chunk.js": "/monster-filter-react/static/js/2.a3c82928.chunk.js",
+    "static/js/2.a3c82928.chunk.js.map": "/monster-filter-react/static/js/2.a3c82928.chunk.js.map",
+    "index.html": "/monster-filter-react/index.html",
+    "precache-manifest.888c6078443b2eba166b0ddabb18c282.js": "/monster-filter-react/precache-manifest.888c6078443b2eba166b0ddabb18c282.js",
+    "service-worker.js": "/monster-filter-react/service-worker.js",
+    "static/css/main.43fa3661.chunk.css.map": "/monster-filter-react/static/css/main.43fa3661.chunk.css.map",
+    "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/monster-filter-react/static/js/2.a3c82928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1218494.js",
+    "static/js/2.a3c82928.chunk.js",
+    "static/css/main.43fa3661.chunk.css",
+    "static/js/main.c6069a83.chunk.js"
+  ]
+}
